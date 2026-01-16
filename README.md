@@ -1,10 +1,10 @@
 # data-scientist-ai-era
 This summary outlines the updated professional standards for data scientists in the age of Generative AI, focusing on the shift from technical execution to strategic value creation.
 
-# Redefining the Data Scientist  
+# Redefining the Data Scientist in Japan, 2026.  
 ### Strategy for the Era of Generative AI
 
-This document outlines how the role of the data scientist is evolving in the age of Generative AI. The profession is shifting from technical execution toward strategic value creation, meaning design, and responsible AI leadership.
+This document outlines how the role of the data scientist is evolving in the age of Generative AI in Japan, 2026. The profession is shifting from technical execution toward strategic value creation, meaning design, and responsible AI leadership.
 
 ---
 
@@ -96,3 +96,11 @@ The workflow is shifting from linear to continuous and iterative.
 
 The data scientist is not disappearing — the role is **elevating**.  
 By shifting from *building tools* to *architecting intelligence*, professionals can drive meaningful transformation in the AI era.
+
+---
+# Source (in Japanese) 
+**Di-Lite Lunchtime Talk #10 — Redefining the Data Scientist!  
+Announcement from the Japan Data Scientist Society**  
+https://www.youtube.com/watch?v=kQettVD8uSM
+
+---
