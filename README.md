@@ -99,7 +99,7 @@ By shifting from *building tools* to *architecting intelligence*, professionals 
 
 ---
 ## Source 
-- **Source: Data Scientist Society, 12th Symposium (2025.11.25, Japan)
+- Data Scientist Society, 12th Symposium (2025.11.25, Japan)
 - **Di-Lite Lunchtime Talk #10 — Redefining the Data Scientist!  
 Announcement from the Japan Data Scientist Society**
 https://www.youtube.com/watch?v=kQettVD8uSM
