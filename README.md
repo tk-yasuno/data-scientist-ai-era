@@ -4,7 +4,7 @@ This summary outlines the updated professional standards for data scientists in 
 # Redefining the Data Scientist in Japan, November 25, 2025.  
 ### Strategy for the Era of Generative AI
 
-This document outlines how the role of the data scientist is evolving in the age of Generative AI in Japan, 2026. The profession is shifting from technical execution toward strategic value creation, meaning design, and responsible AI leadership.
+This document outlines how the role of the data scientist is evolving in the age of Generative AI in Japan, November 25, 2025. The profession is shifting from technical execution toward strategic value creation, meaning design, and responsible AI leadership.
 
 ---
 
